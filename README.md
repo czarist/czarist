@@ -2,10 +2,9 @@
 
 # Lucas Trentin
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=900&color=22D3EE&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;PHP+%7C+Laravel+%7C+Java+%7C+Spring+Boot;Python+%7C+Vue.js+%7C+React;Always+learning%2C+always+building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=900&color=22D3EE&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;PHP+%7C+Laravel+%7C+Java+%7C+Spring+Boot;Python+%7C+Vue.js+%7C+React;Always+learning%2C+always+building" alt="Typing SVG" />
 
-[![Website](https://img.shields.io/badge/cezartrentin.dev-22D3EE?style=for-the-badge&logo=vercel&logoColor=000000)](https://cezartrentin.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cezar-trentin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-trentin)
 
 </div>
 
@@ -31,10 +30,10 @@ Full Stack Software Engineer with 8+ years building web applications, REST APIs,
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=czarist&show_icons=true&theme=transparent&hide_border=true&title_color=22D3EE&icon_color=8B5CF6&text_color=E6EDF3&bg_color=00000000" alt="Lucas's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=czarist&layout=compact&theme=transparent&hide_border=true&title_color=22D3EE&text_color=E6EDF3&bg_color=00000000&langs_count=8" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=lucastrentin&show_icons=true&theme=transparent&hide_border=true&title_color=22D3EE&icon_color=8B5CF6&text_color=E6EDF3&bg_color=00000000" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastrentin&layout=compact&theme=transparent&hide_border=true&title_color=22D3EE&text_color=E6EDF3&bg_color=00000000&langs_count=8" alt="Top Languages" />
 
-<img src="https://streak-stats.demolab.com/?user=czarist&theme=transparent&hide_border=true&ring=22D3EE&fire=8B5CF6&currStreakLabel=22D3EE&sideLabels=E6EDF3&sideNums=E6EDF3&dates=6E7681&background=00000000" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lucastrentin&theme=transparent&hide_border=true&ring=22D3EE&fire=8B5CF6&currStreakLabel=22D3EE&sideLabels=E6EDF3&sideNums=E6EDF3&dates=6E7681&background=00000000" alt="GitHub Streak" />
 
 </div>
 
@@ -42,6 +41,6 @@ Full Stack Software Engineer with 8+ years building web applications, REST APIs,
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=czarist&style=for-the-badge&color=22D3EE&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=lucastrentin&style=for-the-badge&color=22D3EE&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
