@@ -30,10 +30,10 @@ Full Stack Software Engineer with 8+ years building web applications, REST APIs,
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lucastrentin&show_icons=true&theme=transparent&hide_border=true&title_color=22D3EE&icon_color=8B5CF6&text_color=E6EDF3&bg_color=00000000" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastrentin&layout=compact&theme=transparent&hide_border=true&title_color=22D3EE&text_color=E6EDF3&bg_color=00000000&langs_count=8" alt="Top Languages" />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucastrentin&show_icons=true&theme=transparent&hide_border=true&title_color=22D3EE&icon_color=8B5CF6&text_color=E6EDF3&bg_color=00000000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucastrentin&layout=compact&theme=transparent&hide_border=true&title_color=22D3EE&text_color=E6EDF3&bg_color=00000000&langs_count=8)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lucastrentin&theme=transparent&hide_border=true&ring=22D3EE&fire=8B5CF6&currStreakLabel=22D3EE&sideLabels=E6EDF3&sideNums=E6EDF3&dates=6E7681&background=00000000" alt="GitHub Streak" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucastrentin&theme=transparent&hide_border=true&ring=22D3EE&fire=8B5CF6&currStreakLabel=22D3EE&sideLabels=E6EDF3&sideNums=E6EDF3&dates=6E7681&background=00000000)
 
 </div>
 
