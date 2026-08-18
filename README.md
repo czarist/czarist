@@ -26,6 +26,10 @@
 
 <div align="center">
 
+<img src="https://skillicons.dev/icons?i=php,laravel,java,spring,python,fastapi,flask,vue,react,js,ts,html,css,sass,docker,git,postgres,mysql,mongodb,redis,aws,linux&theme=dark" alt="Skills" />
+
+</div>
+
 ### 🎯 Core Expertise
 
 - **Backend:** PHP (Laravel), Java (Spring Boot), Python (FastAPI/Flask)
@@ -40,9 +44,24 @@
 
 <div align="center">
 
+| Metric | Badge |
+|--------|-------|
+| **Followers** | [![GitHub Followers](https://img.shields.io/github/followers/lucastrentin?style=flat-square&color=22D3EE&labelColor=1e1e1e)](https://github.com/lucastrentin) |
+| **Stars** | [![GitHub User's stars](https://img.shields.io/github/stars/lucastrentin?style=flat-square&color=22D3EE&labelColor=1e1e1e)](https://github.com/lucastrentin) |
+
+</div>
+
 ### 🏆 Top Languages
 
 <div align="center">
+
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](#)
+
+</div>
 
 ---
 
@@ -57,3 +76,9 @@
 ---
 
 <div align="center">
+
+### ⭐ Let's build something amazing together!
+
+**[Explore My Repositories](https://github.com/lucastrentin)** • **[See My Profile](https://github.com/lucastrentin)**
+
+</div>
