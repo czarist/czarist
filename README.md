@@ -44,10 +44,9 @@
 
 <div align="center">
 
-| Metric | Badge |
-|--------|-------|
-| **Followers** | [![GitHub Followers](https://img.shields.io/github/followers/lucastrentin?style=flat-square&color=22D3EE&labelColor=1e1e1e)](https://github.com/lucastrentin) |
-| **Stars** | [![GitHub User's stars](https://img.shields.io/github/stars/lucastrentin?style=flat-square&color=22D3EE&labelColor=1e1e1e)](https://github.com/lucastrentin) |
+| 👥 Followers | ⭐ Stars | 📚 Repositories | 🔥 Contributions |
+|:---:|:---:|:---:|:---:|
+| [![GitHub Followers](https://img.shields.io/badge/13-22D3EE?style=for-the-badge&labelColor=1e1e1e&label=followers)](https://github.com/lucastrentin?tab=followers) | [![GitHub User's stars](https://img.shields.io/github/stars/lucastrentin?style=for-the-badge&color=22D3EE&labelColor=1e1e1e)](https://github.com/lucastrentin) | [![GitHub Repos](https://img.shields.io/badge/view-22D3EE?style=for-the-badge&labelColor=1e1e1e&label=repositories)](https://github.com/lucastrentin?tab=repositories) | [![Profile Views](https://komarev.com/ghpvc/?username=lucastrentin&style=for-the-badge&color=22D3EE&label=PROFILE+VIEWS)](https://github.com/lucastrentin) |
 
 </div>
 
