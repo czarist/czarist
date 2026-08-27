@@ -1,3 +1,5 @@
+# Resume
+
 Full-stack software engineer since 2018.  
 I build web applications, REST APIs, and management systems (CRM / CMS).
 
@@ -30,10 +32,8 @@ Based in Brazil. Open to collaboration and interesting problems.
 
 ## Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=czarist&show_icons=true&theme=transparent&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=czarist&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Top languages" />
-</p>
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=czarist&show_icons=true&theme=transparent&hide_border=true&hide_rank=true)
+![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=czarist&layout=compact&theme=transparent&hide_border=true&langs_count=6)
 
 ## Now
 
