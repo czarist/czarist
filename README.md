@@ -1,7 +1,8 @@
-# Resume
+<div align="center">
 
-Full-stack software engineer since 2018.  
-I build web applications, REST APIs, and management systems (CRM / CMS).
+# Cezar Trentin
+
+**Software Engineer · Full-stack, backend-leaning · Brazil**
 
 <p>
   <a href="https://cezartrentin.dev"><img src="https://img.shields.io/badge/Portfolio-222222?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
@@ -10,38 +11,34 @@ I build web applications, REST APIs, and management systems (CRM / CMS).
   <a href="mailto:czartrentin@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
----
+</div>
 
-## About
+Since 2018, I’ve gone from building websites and frontends to evolving business
+software: CRMs, CMSs, management systems, and the APIs between them. These days
+I’m backend-leaning across PHP/Laravel, Java/Spring Boot, and Python, fitting
+new capabilities like AI into existing products instead of treating them as
+standalone demos.
 
-I work across the stack: backend services, APIs, and frontends that have to survive real production use.  
-Right now I’m focused on AI integration in existing systems, MCP, and tightening DevOps around the work I already ship.
+## What I work on
 
-Based in Brazil. Open to collaboration and interesting problems.
+- **Business applications** — turning complex requirements into dependable
+  features for systems like expense management, HR, and content platforms.
+- **Backend and integrations** — REST APIs and services with PHP/Laravel,
+  Java/Spring Boot, and Python, backed by relational databases and Redis.
+- **Useful AI** — integrating OpenAI and Gemini APIs into business workflows
+  for automation and analytics, alongside ongoing exploration of MCP.
+- **End-to-end delivery** — building frontends when needed and working with
+  Docker, CI/CD, and automated tests to keep changes maintainable.
 
-## Stack
+## Tools I reach for
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,python,fastapi,vue,react,ts,docker,postgres,mysql,mongodb,redis,aws,linux,git&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,go,rust,python,fastapi,nodejs,vue,react,angular,js,ts,jquery,html,css,sass,wordpress,docker,postgres,mysql,mongodb,redis,aws,azure,gcp,linux,git,gitlab,githubactions,jenkins&theme=dark&perline=8" alt="Technologies: PHP, Laravel, Java, Spring Boot, Go, Rust, Python, FastAPI, Node.js, Vue, React, Angular, JavaScript, TypeScript, jQuery, HTML, CSS, Sass, WordPress, Docker, PostgreSQL, MySQL, MongoDB, Redis, AWS, Azure, Google Cloud, Linux, Git, GitLab, GitHub Actions, Jenkins" />
 </p>
 
-**Backend** — PHP / Laravel, Java / Spring Boot, Python / FastAPI  
-**Frontend** — Vue.js, React, TypeScript  
-**Data** — PostgreSQL, MySQL, MongoDB, Redis  
-**Ops** — Docker, Linux, Git, AWS
+**Backend** — PHP / Laravel, Java / Spring Boot, Python / FastAPI<br>
+**Frontend** — Vue, React, Angular, TypeScript<br>
+**Data & delivery** — PostgreSQL, MySQL, Redis, Docker, CI/CD
 
-## Stats
-
-![GitHub stats](https://github-stats-extended.vercel.app/api?username=czarist&show_icons=true&theme=transparent&hide_border=true&hide_rank=true)
-![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=czarist&layout=compact&theme=transparent&hide_border=true&langs_count=6)
-
-## Now
-
-- Shipping backend systems with Laravel and Spring Boot
-- Frontends in React and Vue
-- Experimenting with LLM integration and MCP
-- Always learning, usually building
-
----
-
-[cezartrentin.dev](https://cezartrentin.dev)
+I’ve also worked with Go, Rust, Node.js, WordPress, and several cloud and CI/CD
+tools—always choosing what fits the problem.
